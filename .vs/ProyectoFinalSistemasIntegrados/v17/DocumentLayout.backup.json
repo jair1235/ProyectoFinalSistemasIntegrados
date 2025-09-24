@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jairn\\Documents\\ProyectoFinalSistemasIntegrados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{233F0370-0227-47E7-84CD-9BF22FFABD07}|ProyectoFinalSistemasIntegrados.csproj|c:\\users\\jairn\\documents\\proyectofinalsistemasintegrados\\controllers\\testimonioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233F0370-0227-47E7-84CD-9BF22FFABD07}|ProyectoFinalSistemasIntegrados.csproj|solutionrelative:controllers\\testimonioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233F0370-0227-47E7-84CD-9BF22FFABD07}|ProyectoFinalSistemasIntegrados.csproj|c:\\users\\jairn\\documents\\proyectofinalsistemasintegrados\\models\\testimonio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233F0370-0227-47E7-84CD-9BF22FFABD07}|ProyectoFinalSistemasIntegrados.csproj|solutionrelative:models\\testimonio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233F0370-0227-47E7-84CD-9BF22FFABD07}|ProyectoFinalSistemasIntegrados.csproj|c:\\users\\jairn\\documents\\proyectofinalsistemasintegrados\\migrations\\20250924153739_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233F0370-0227-47E7-84CD-9BF22FFABD07}|ProyectoFinalSistemasIntegrados.csproj|solutionrelative:migrations\\20250924153739_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233F0370-0227-47E7-84CD-9BF22FFABD07}|ProyectoFinalSistemasIntegrados.csproj|c:\\users\\jairn\\documents\\proyectofinalsistemasintegrados\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233F0370-0227-47E7-84CD-9BF22FFABD07}|ProyectoFinalSistemasIntegrados.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233F0370-0227-47E7-84CD-9BF22FFABD07}|ProyectoFinalSistemasIntegrados.csproj|c:\\users\\jairn\\documents\\proyectofinalsistemasintegrados\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{233F0370-0227-47E7-84CD-9BF22FFABD07}|ProyectoFinalSistemasIntegrados.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233F0370-0227-47E7-84CD-9BF22FFABD07}|ProyectoFinalSistemasIntegrados.csproj|c:\\users\\jairn\\documents\\proyectofinalsistemasintegrados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233F0370-0227-47E7-84CD-9BF22FFABD07}|ProyectoFinalSistemasIntegrados.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestimoniosController.cs",
+              "DocumentMoniker": "C:\\Users\\jairn\\Documents\\ProyectoFinalSistemasIntegrados\\Controllers\\TestimoniosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestimoniosController.cs",
+              "ToolTip": "C:\\Users\\jairn\\Documents\\ProyectoFinalSistemasIntegrados\\Controllers\\TestimoniosController.cs",
+              "RelativeToolTip": "Controllers\\TestimoniosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:40:29.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250924153739_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\jairn\\Documents\\ProyectoFinalSistemasIntegrados\\Migrations\\20250924153739_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250924153739_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\jairn\\Documents\\ProyectoFinalSistemasIntegrados\\Migrations\\20250924153739_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250924153739_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:37:40.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jairn\\Documents\\ProyectoFinalSistemasIntegrados\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jairn\\Documents\\ProyectoFinalSistemasIntegrados\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T15:35:17.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jairn\\Documents\\ProyectoFinalSistemasIntegrados\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jairn\\Documents\\ProyectoFinalSistemasIntegrados\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:33:56.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Testimonio.cs",
+              "DocumentMoniker": "C:\\Users\\jairn\\Documents\\ProyectoFinalSistemasIntegrados\\Models\\Testimonio.cs",
+              "RelativeDocumentMoniker": "Models\\Testimonio.cs",
+              "ToolTip": "C:\\Users\\jairn\\Documents\\ProyectoFinalSistemasIntegrados\\Models\\Testimonio.cs",
+              "RelativeToolTip": "Models\\Testimonio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:30:38.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jairn\\Documents\\ProyectoFinalSistemasIntegrados\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jairn\\Documents\\ProyectoFinalSistemasIntegrados\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T15:35:58.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
